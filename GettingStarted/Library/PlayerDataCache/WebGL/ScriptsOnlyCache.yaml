@@ -1005,4 +1005,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Sadhana/Documents/GitHub/IntroGame/GettingStarted/Build
+  playerPath: C:/Users/Sadhana/Documents/GitHub/IntroGame/build
